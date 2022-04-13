@@ -8,7 +8,7 @@ Table of Contents :smiley:
 - [Installation](#installation)
 - [CLI Commands](#cli-commands)
 - [How To Create a Config?](#how-to-create-a-config)
-- [When GmailBruter Creates a Successful Brute-Force Attack?](#when-gmailbruter-creates-a-successful-brute-force-attack)
+- [When Crack-mail Creates a Successful Brute-Force Attack?](#when-gmailbruter-creates-a-successful-brute-force-attack)
 - [What Should I Do If The SMTP Conncetion Disconnectes?](#what-should-i-do-if-the-smtp-connection-disconnects)
 - [How To Execute a Shell Command?](#how-to-execute-a-shell-command)
 - [How To Make a Successful Brute-Forcing Attack?](#how-to-make-a-successful-brute-forcing-attack)
